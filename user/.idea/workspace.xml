@@ -10,22 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4860793-9fac-4f5c-ab1c-a0ff153335c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/user/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/user/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/user/config/MyBatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/co/user/config/MyWebAppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user1/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user1/modify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user1/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2장 SQL 기본.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../2장 SQL 기본.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.user [package].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,7 +63,7 @@
     "Tomcat Server.user.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/java/Desktop/workspace/Oracle/user/src/main/webapp/WEB-INF/views/user2",
+    "last_opened_file_path": "C:/Users/java/Desktop/workspace/Oracle/user/src/main/resources/mappers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,10 +77,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\webapp\WEB-INF\views\user2" />
       <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\resources\mappers" />
-      <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\java\kr\co\user\config" />
+      <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\webapp\WEB-INF\views\user6" />
       <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\webapp\WEB-INF\views\user4" />
+      <recent name="C:\Users\java\Desktop\workspace\Oracle\user\src\main\webapp\WEB-INF\views\user3" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kr.co.user.dto" />
     </key>
   </component>
   <component name="RunManager">
@@ -204,6 +197,10 @@
       <workItem from="1709795069022" duration="659000" />
       <workItem from="1709795733619" duration="2111000" />
       <workItem from="1709797852304" duration="3539000" />
+      <workItem from="1709867050149" duration="838000" />
+      <workItem from="1709867895501" duration="6155000" />
+      <workItem from="1709880444902" duration="64000" />
+      <workItem from="1709883453573" duration="4177000" />
     </task>
     <servers />
   </component>
